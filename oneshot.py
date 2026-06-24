@@ -2062,9 +2062,9 @@ def show_w8team_banner():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     banner_text = f"""
 ╔═══════════════════ LIVE STATISTICS ═══════════════════╗
-║ TIME: {current_time}                    ║
-║ AUTHOR: W8Team/W8SOJIB                              ║
-║ TELEGRAM: https://t.me/W8SOJIB                      ║
+║ TIME: {current_time}                                  ║
+║ AUTHOR: grokXugrigrum                                 ║
+║ TELEGRAM: https://t.me/ug_rigrum                      ║
 ╚═══════════════════════════════════════════════════════╝
     """
     print(banner_text)
@@ -2073,11 +2073,9 @@ def show_w8team_banner():
 def show_main_menu():
     menu = """
 ╔══════════════════════════════════════════════════════════════╗
-║                  🛡️  W8Team WiFi Hacker                     ║
-║                    Advanced Auto System                      ║
-║                     💚 This Tool Free 💚                     ║
+║                  Grok supremacy                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  [1] 🚀 Auto Attack - Find High Vulnerability & Auto Hack    ║
+║  [1] 🚀 Auto Attack - Find High Vulnerability & Auto Hack   ║
 ║  [2] 📡 Scan & Attack WiFi - Select Target & Pixie Dust     ║
 ║  [3] 🔥 BruteForce Attack - Scan, Select & PIN Attack       ║
 ║  [4] 🤖 AI PIN Prediction - ALL 100 Million PINs Attack     ║
