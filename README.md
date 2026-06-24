@@ -8,7 +8,6 @@
 
 #### **🚀 Quick Install (1-Minute Setup)**
 ```bash
-# Copy and paste this entire block:
 pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl python-pip aircrack-ng hashcat && pip install pyfiglet psutil requests && git clone https://github.com/W8SOJIB/W8RootWifiHKV2 && cd W8RootWifiHKV2 && echo "Run: tsu && sudo python oneshot.py"
 ```
 
@@ -112,38 +111,12 @@ python oneshot.py -i wlan0 -b AA:BB:CC:DD:EE:FF --ai-pin
 * **`auto_attack_results.txt`** - Auto attack mode results
 * **`reports/stored.csv`** - Structured CSV format
 * **`reports/All WIFI Password And WPS Pin.txt`** - Human-readable format
+<br> 
+<br> 
+<br> 
+<br> 
 
-### **📈 Enhanced Auto Attack Progress Tracking**
-
-```
-[3/15] 🎯 Attacking: HomeNetwork_5G
-[*] 📶 BSSID: AA:BB:CC:DD:EE:FF | Signal: -45 dBm
-[*] ⏱️  Timeout: 30 seconds | Remaining: 12 networks
-[*] 🧚 Starting Pixie Dust attack (max 30s)...
-[+] ✅ SUCCESS! Cracked HomeNetwork_5G in 12.4 seconds
-[+] 🎉 Total successful: 2/3
-[*] 📈 Progress: 20.0% (3/15)
-[*] ⏳ Waiting 3 seconds before next attack...
-```
-
-### **🎉 Auto Attack Final Summary**
-
-```
-🎯 AUTO ATTACK SUMMARY
-════════════════════════════════════════════════════════════
-📊 Total Networks Scanned: 15
-✅ Successful Attacks: 8
-❌ Failed Attacks: 7
-📈 Success Rate: 53.3%
-⏱️  Total Time: 12.5 minutes
-════════════════════════════════════════════════════════════
-🎉 Congratulations! You cracked 8 networks!
-💾 All passwords saved to files automatically
-```
----
-
-
-
+<br> 
 ## 🏆 **Credits & Acknowledgments**
 
 ### 👨‍💻 **Development Team**
@@ -162,7 +135,3 @@ python oneshot.py -i wlan0 -b AA:BB:CC:DD:EE:FF --ai-pin
 
 
 ---
-
-**Made with ❤️ by W8Team**
-
-📱 [Telegram](https://t.me/W8SOJIB) • ⭐ Star this repo • 🍴 Fork
