@@ -8,7 +8,7 @@
 
 #### **🚀 Quick Install (1-Minute Setup)**
 ```bash
-pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl python-pip aircrack-ng hashcat && pip install pyfiglet psutil requests && git clone https://github.com/W8SOJIB/W8RootWifiHKV2 && cd W8RootWifiHKV2 && echo "Run: tsu && sudo python oneshot.py"
+pkg update && pkg upgrade -y && pkg install -y root-repo git tsu python python-pip wpa-supplicant pixiewps iw openssl && pip install pyfiglet requests && git clone https://github.com/kochurmatha-cpu/oneshot-plus && cd oneshot-plus && echo -e "✅ Installation finished! Now run: tsu && python oneshot.py"
 ```
 
 # Start the tool
@@ -16,7 +16,7 @@ pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git t
 tsu
 ```
 ```
-sudo python oneshot.py
+python oneshot.py
 ```
 
 
